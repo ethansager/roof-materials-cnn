@@ -1,0 +1,15 @@
+torch>=2.1
+torchvision>=0.16
+ultralytics>=8.2  # for YOLOv11
+transformers>=4.43  # for SAM
+opencv-python
+pandas
+numpy
+pyyaml
+tqdm
+matplotlib
+wandb
+rasterio
+geopandas
+shapely
+tqdm
